@@ -21,3 +21,6 @@ Compilation of many resources useful for making Videopaks for the OP-Z! Want to 
 \
 \
 [libopz](https://github.com/patriciogonzalezvivo/libopz) - Non-official API library for the OP-Z. Also contains an OP-Z Companion app that can run on Linux.
+
+# OP-Z
+[list of OP-Z guides, cheat sheets, apps and other resources](https://op-forums.com/t/a-list-of-op-z-guides-cheat-sheets-apps-and-other-resources/17669/1) - List of general OP-Z related resources.
