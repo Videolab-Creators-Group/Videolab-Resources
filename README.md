@@ -1,5 +1,5 @@
 # Videolab-Resources
-Compilation of many resources useful for making Videopaks for the OP-Z!
+Compilation of many resources useful for making Videopaks for the OP-Z! Want to join the Discord Videolab Creators community? Join [here].(https://discord.gg/rGvHX6W)
 
 # Unity Resources
 [Videolab](https://github.com/teenageengineering/videolab) - Required to import into your Unity project in order to build for the OP-Z. Also contains Wiki for learning about how to use Videolab.
