@@ -16,7 +16,7 @@ Compilation of many resources useful for making Videopaks for the OP-Z! Want to 
 \
 [Brad the Designer's Tape Track Effects](https://github.com/Videolab-Creators-Group/Tape-Track-Videopak) - A single videopak for tape-based effects.
 
-# Other OP-Z Video-related Resources
+# Other OP-Z Video-Related Resources
 [OP-Z Gif Looper Generator](https://github.com/juliensnz/opz-gif) - Create sprites for the [Gif Looper Project](https://www.synthpaks.com/collections/frontpage/products/gif-looper-template-project-beta).
 \
 \
