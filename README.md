@@ -11,7 +11,7 @@ Compilation of many resources useful for making Videopaks for the OP-Z! Want to 
 [Keijiro's Videopaks](https://github.com/keijiro/VideolabTest) - OP-Z videolab examples. May not render graphics properly in current versions of Unity or the OP-Z app.
 \
 \
-[Romango's Tombola and XYPak](https://github.com/Romano-Garmez/Romans-VideoPaks) - A collection of videopaks for the op-z. Contains a clone of the OP-1 Tombola, as well as an XYPad and sliders that can be used to send midi to other devices.
+[Romango's Tombola and XYPak](https://github.com/Romano-Garmez/Romans-VideoPaks) - A collection of videopaks for the OP-Z. Contains a clone of the OP-1 Tombola, as well as an XYPad and sliders that can be used to send midi to other devices.
 \
 \
 [Brad the Designer's Tape Track Effects](https://github.com/Videolab-Creators-Group/Tape-Track-Videopak) - A single videopak for tape-based effects.
