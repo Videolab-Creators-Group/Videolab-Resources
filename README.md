@@ -6,6 +6,10 @@ Compilation of many resources useful for making Videopaks for the OP-Z! Want to 
 \
 \
 [Template Unity Project](https://github.com/Videolab-Creators-Group/Videopak-Template) - Not sure how to get started with Videolab? Download this pre-configured Unity project and open it with Unity Hub.
+\
+\
+[ShaderToy > Unity Shader Converter (glsl2hsls)](https://pema.dev/glsl2hlsl/) - I used this link a LOT to convert ShaderToy shaders into Unity Shaders.
+
 
 # Example Videopaks
 [Keijiro's Videopaks](https://github.com/keijiro/VideolabTest) - OP-Z videolab examples. May not render graphics properly in current versions of Unity or the OP-Z app.
