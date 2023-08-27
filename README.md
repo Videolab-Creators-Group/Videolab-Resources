@@ -1,9 +1,8 @@
 # Videolab-Resources
-Compilation of many resources useful for making Videopaks for the OP-Z! Want to join the Discord Videolab Creators community? Join [here](https://discord.gg/rGvHX6W).
+Compilation of many resources useful for making Videopaks for the OP-Z! Want to join the Discord Videolab Creators community? Join [here](https://discord.gg/rGvHX6W). Have ideas for stuff to add to the list? Make a pull request!
 
 # Unity Resources
 
----
 ### Videolab - https://github.com/teenageengineering/videolab
 
 <img src="images/videolab.png" height="250">
@@ -59,5 +58,3 @@ Reverse engineering the way the OP-Z communicates with the mobile app to develop
 ### list of OP-Z guides, cheat sheets, apps and other resources - https://op-forums.com/t/a-list-of-op-z-guides-cheat-sheets-apps-and-other-resources/17669/1
 <img src="images/listofguides.png" height="250">
 List of general OP-Z related resources in the OP Forums. A good tool to have, though not videopak specific.
-
----
