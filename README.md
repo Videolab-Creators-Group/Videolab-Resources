@@ -10,6 +10,14 @@ Required to import into your Unity project in order to build for the OP-Z. Also 
 
 ---
 
+### Creating Software for Interaction and Participation: A Documentation for Videolab, Klak, and MIDI in Unity - https://www.visgraf.impa.br/Data/RefBib/PS_PDF/tr-02-2021/tr-02-2021.pdf
+
+<img src="images/creating-software-for-interaction-toc.png" height="250">
+
+Proper documentation for VideoLab and Klak nodes using for making VideoPaks. Much more thorough than Teenage Engineering's official documentation on VideoLab. Strongly recommended for everyone making a VideoPak.
+
+---
+
 ### Template Unity Project - https://github.com/Videolab-Creators-Group/Videopak-Template
 <img src="images/template.png" height="250">
 Not sure how to get started with Videolab? Download this pre-configured Unity project and open it with Unity Hub. Alternatively, fork that repo and create your own project already linked to Github!
